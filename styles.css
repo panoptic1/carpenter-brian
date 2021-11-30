@@ -76,4 +76,10 @@ img {
   margin: 1%;
   padding: 1%;
   height: 140px;
+  border: solid black 1px;
+}
+
+.contact {
+  padding: 10px;
+  background: greenyellow;
 }
