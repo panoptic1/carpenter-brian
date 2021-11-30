@@ -56,7 +56,24 @@ li {
 h2 {
   text-align: center;
 }
+
 img {
   float: left;
   margin: 10px;
+}
+
+.service h2,
+.service p {
+  color: darkmagenta;
+  margin: 10px 0;
+  text-align: center;
+}
+
+.service {
+  float: left;
+  background: #eee;
+  width: 29%;
+  margin: 1%;
+  padding: 1%;
+  height: 140px;
 }
