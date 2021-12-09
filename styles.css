@@ -77,6 +77,19 @@ img {
   padding: 1%;
   height: 140px;
   border: solid black 1px;
+  position: relative;
+}
+
+.service:nth-child(1) {
+  top: 5px;
+}
+
+.service:nth-child(2) {
+  top: 15px;
+}
+
+.service:nth-child(3) {
+  top: 25px;
 }
 
 .contact {
@@ -84,6 +97,7 @@ img {
   background: greenyellow;
   clear: left;
   margin: 20px 1%;
+  position: relative;
 }
 
 .contact p {
